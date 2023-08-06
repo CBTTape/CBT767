@@ -1,0 +1,7 @@
+2023-08-06 06:58:31.305482 - Initialized conversion of CBT767
+2023-08-06 06:58:31.338934 - Received CBT.V505.FILE767.PDS from FILE767.XMI 
+2023-08-06 06:58:31.341148 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE767.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:58:31.342075 - Found @FILE767.txt (text/plain) in CBT.V505.FILE767.PDS, moved to PDS/@FILE767
+2023-08-06 06:58:31.343071 - Found PACKHELP.txt (text/plain) in CBT.V505.FILE767.PDS, moved to PDS/PACKHELP
+2023-08-06 06:58:31.343982 - Found TPACK.rexx (text/plain) in CBT.V505.FILE767.PDS, moved to PDS/TPACK
+2023-08-06 06:58:31.344797 - Found TUNPACK.rexx (text/plain) in CBT.V505.FILE767.PDS, moved to PDS/TUNPACK
